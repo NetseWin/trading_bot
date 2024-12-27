@@ -1,0 +1,12 @@
+Close,SMA_Short,SMA_Long,Signal,Sell_Signal
+100,,,False,False
+102,,,False,False
+101,101.0,,False,False
+103,102.0,,False,False
+104,102.66666666666667,102.0,True,False
+102,103.0,102.4,True,False
+101,102.33333333333333,102.2,True,False
+105,102.66666666666667,103.0,False,True
+106,104.0,103.6,True,False
+107,106.0,104.2,True,False
+108,107.0,105.4,True,False
